@@ -12,7 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
-eggs/
+ieggs/
 .eggs/
 lib/
 lib64/
@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+1.java
